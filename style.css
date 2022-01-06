@@ -59,23 +59,23 @@ p {
 
 .team-works {
     padding-top: 2%;
-    background-image: url(images/dream-bg.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 59px 159px;
-    background-position-x: 40px;
-    background-position-y: 240px;
+    background-size: 243px 198px;
+    background-position-x: 14px;
+    background-position-y: 232px;
     padding-bottom: 100px;
 }
 
+
+}
 h2 {
     font-size: 40px;
     text-align: center;
 }
-
 h2 span {
     color: rgb(216, 137, 71);
 }
-
 .My-mission {
     text-align: center;
     padding-left: 2%;
@@ -83,34 +83,28 @@ h2 span {
     display: flex;
     padding-right: 5%;
 }
-
 .My-mission h3 {
     color: rgb(20, 14, 2);
 }
-
 .My-mission div {
     box-shadow: 5px 7px 40px gray;
     height: 85%;
     width: 35%;
 }
-
 #mission {
     background-color: red;
     border-radius: 30px;
     background-color: rgb(250, 226, 194);
     text-align: bottom;
 }
-
 #vision {
     border-radius: 30px;
     background-color: rgb(184, 243, 223);
 }
-
 #goal {
     border-radius: 30px;
     background-color: rgb(250, 226, 194);
 }
-
 #img {
     padding-top: 2%;
     background-image: url(images/shapes/shape-1.png);
@@ -120,29 +114,24 @@ h2 span {
     background-position-y: 357px;
     padding-bottom: 100px;
 }
-
 .own {
     margin-bottom: 15%;
     background-image: url("images/shapes/shape-8.png");
     background-size: 10%;
     background-repeat: no-repeat;
 }
-
 .own h1 {
     text-align: center;
 }
-
 .own img {
     border-radius: 6px;
     box-shadow: 5px 5px 5px grey;
 }
-
 .footer {
     padding: 0.25% 0;
     background-color: rgb(34, 34, 70);
     text-align: center;
 }
-
 #color {
     color: darkred;
 }
