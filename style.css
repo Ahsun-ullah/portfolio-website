@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 600px;
+    padding-bottom: 150px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+    padding-left: 2%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    color: rgb(250, 226, 194);
+}
+
+h3 span {
+    color: rgba(29, 30, 80, 0.767);
+}
+
+h1 span {
+    color: rgb(216, 137, 71);
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.anchor-button {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+p {
+    color: dimgray;
+}
+
+.team-works {
+    padding-top: 2%;
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 span {
+    color: rgb(216, 137, 71);
+}
+
+.My-mission {
+    text-align: center;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    display: flex;
+    padding-right: 5%;
+}
+
+.My-mission h3 {
+    color: rgb(20, 14, 2);
+}
+
+.My-mission div {
+    box-shadow: 5px 7px 40px gray;
+    height: 85%;
+    width: 35%;
+}
+
+#mission {
+    background-color: red;
+    border-radius: 30px;
+    background-color: rgb(250, 226, 194);
+    text-align: bottom;
+}
+
+#vision {
+    border-radius: 30px;
+    background-color: rgb(184, 243, 223);
+}
+
+#goal {
+    border-radius: 30px;
+    background-color: rgb(250, 226, 194);
+}
+
+#img {
+    padding-top: 2%;
+    background-image: url("images/shapes/shape-1.png");
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.own {
+    margin-bottom: 15%;
+    background-image: url("images/shapes/shape-8.png");
+    background-size: 10%;
+    background-repeat: no-repeat;
+}
+
+.own h1 {
+    text-align: center;
+}
+
+.own img {
+    border-radius: 6px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.footer {
+    padding: 0.25% 0;
+    background-color: rgb(34, 34, 70);
+    text-align: center;
+}
+
+#color {
+    color: darkred;
+}
